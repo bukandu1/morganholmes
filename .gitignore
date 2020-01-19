@@ -4,3 +4,8 @@ secrets.sh
 djangoinvest/djangoinvest/__pycache__
 djangoinvest/mh/__pycache__
 djangoinvest/djangoinvest/settings
+data.CSV
+data1.CSV
+pandas_paypal_test.ipynb
+.DS_Store
+.ipynb_checkpoints/
