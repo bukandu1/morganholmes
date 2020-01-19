@@ -1,0 +1,6 @@
+env
+secrets.sh
+.vscode
+djangoinvest/djangoinvest/__pycache__
+djangoinvest/mh/__pycache__
+djangoinvest/djangoinvest/settings
