@@ -18,7 +18,7 @@ investors = [
 
 # Home page
 def home(request):
-    return render(request, 'mh/home.html')
+    return render(request, 'mh/home.html', {'title': "Morgan & Holmes"})
 
 def about(request):
     return render(request, 'mh/about.html')
